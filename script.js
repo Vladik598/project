@@ -32,7 +32,7 @@ switch (num) {
                 console.log('Yes');
                 break;
         default:
-                console.log('TTT');
+                console.log('TTT.');
                 break;
 
 }
